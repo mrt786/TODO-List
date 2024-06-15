@@ -1,0 +1,34 @@
+li
+{
+    margin-top: 20px;
+}
+
+li > button
+{
+    position:absolute;
+    right: 40.8%;
+    color: green;
+}
+body
+{
+    background-color: bisque;
+}
+
+
+.container
+{
+    display: flex;
+    flex-wrap: wrap;
+    width: 300px;
+    height: auto;
+    margin: auto;
+    border: 3px solid rgb(255, 193, 117);
+    height: auto;
+    border-radius: 5px;
+     align-content: space-evenly;
+}
+
+.center,input,button
+{
+    margin: auto;
+}
